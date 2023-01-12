@@ -30,7 +30,7 @@ You can use this page to install it and configure the needed Java environment: h
 From now we will assume you have a functioning VS Code with Java correctly configured as in the tutorial.
 
 ## Types
-To be able to correclty understand our instructions, we need a way to tell the machine that something is a text to be printed or emailed or anything else. Or that it is a price to be compted, or that it is a **boolean** that can be either true or false. For this we have the notion of **types**. We will avoid theory by now, nd only say that types are a way of grouping values together:
-We say that the above values: **"Hello World"** and **"Salutations"** are of type _String_.  
+To be able to correclty understand our instructions, we need a way to tell the machine that something is a text to be printed or emailed or anything else. Or that it is a price to be compted, or that it is a **boolean** that can be either true or false. For this we have the notion of **types**. We will avoid theory by now, nd only say that types are a way of grouping values together:  
+We say that the above values **"Hello World"** and **"Salutations"** are of type _String_.  
 Truth values **true** and **false** are _boolean_  
 Integers like **0**, **42** and **-1500** are _int_
